@@ -21,7 +21,7 @@ repository               : "seismo-savi/seismo-savi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "savvas-profile.png"
   name             : "Savvas Marcou"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "PhD Student in Seismology at the UC Berkeley Seismology Lab"
