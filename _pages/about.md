@@ -12,3 +12,6 @@ Hi everyone, welcome to my website! I am a PhD Candidate in the [Berkeley Seismo
 Prior to joining UC Berkeley in August 2022, I completed an Integrated Masters (MSci) degree in Geophysics, at the [Department of Earth Science & Engineering](https://www.imperial.ac.uk/earth-science/) at Imperial College London. I assisted with various research projects as an undergraduate, on which you can find out more through the [Publications](https://seismo-savi.github.io/publications/) page.
 
 I am also passionate about doing outreach on earthquake science - you can check out more details in my Outreach page (under construction)!
+
+I am originally from the small Mediterranean island of Cyprus, where one of the world's best preserved Ophiolite sequences, the [Troodos Ophiolite](https://en.wikipedia.org/wiki/Troodos_Ophiolite) is found. The Eastern Mediterranean region exhibits impressive tectonic complexity, so you will sometimes find me tweeting about it. Despite being a desk-based earth scientist, I love exploring the great outdoors.
+
