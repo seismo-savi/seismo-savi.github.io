@@ -1,6 +1,6 @@
 ---
 title: "Operational Earthquake Early Warning Performance Assessment"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Assessing ShakeAlert EEW alert delivery performance using MyShake data <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
