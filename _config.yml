@@ -204,12 +204,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  research:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -250,23 +250,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _research
   - scope:
       path: ""
-      type: projects
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
