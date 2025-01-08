@@ -1,7 +1,7 @@
 ---
 title: "Ground-Motion Modeling Using MyShake Smartphone Peak Acceleration Data"
 collection: publications
-permalink: /publication/2024-12-19_marcou_bssa.md
+permalink: /publication/2024-12-19_marcou_bssa
 date: 2024-12-19
 venue: 'Bulletin of the Seismological Society of America'
 paperurl: 'https://doi.org/10.1785/0120240209'
